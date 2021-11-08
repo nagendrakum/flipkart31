@@ -1,1 +1,2 @@
-two projects are completed in mave:
+two projects are completed in maven:
+two projects are in docker:
